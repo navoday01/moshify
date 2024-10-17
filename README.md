@@ -1,2 +1,3 @@
 # moshify
-cloning moshified.com
+
+replicating moshified.com
